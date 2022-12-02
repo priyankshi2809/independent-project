@@ -1,7 +1,20 @@
+html {
+    /* content stays responsive */
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  /* adding above property to all the elements by default */
+  * {
+    box-sizing: inherit;
+  }
+
+
 .wrapper{
     position: absolute;
     /* top:-50px; */
     left: 0px;
+    display: inline-flex;
+    align-items: center;
 }
 .wrapper h1{
     font-family: 'Great Vibes', cursive;
@@ -152,6 +165,8 @@
     width: 40px;
     height: 40px;
     object-fit: cover;
+    position: relative;
+    top: 10px;
 }
 
 .content .grid{
@@ -300,7 +315,6 @@
 
 footer{
     background-color: #775C41;
-    height: 30px;
     padding: 30px;
     text-align: center;
     justify-content: space-around;
@@ -346,7 +360,7 @@ footer{
         /* line-height: 60%;*/
     }
     .wrapper img{
-        top:10px;
+        top:0px;
         width: 80px;
         height: 80px;
     }
