@@ -1,490 +1,492 @@
 .wrapper{
-  position: absolute;
-  /* top:-50px; */
-  left: 0px;
+    position: absolute;
+    /* top:-50px; */
+    left: 0px;
 }
 .wrapper h1{
-  display: inline;
-  font-family: 'Great Vibes', cursive;
-  color: #000;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 100px;
-  line-height: 120px;
+    display: inline;
+    font-family: 'Great Vibes', cursive;
+    color: #000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 120px;
 }
 
 .wrapper img{
-  display: inline;
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 100px;
-  height: 100px;
-  color: #000;
-  /* object-fit: cover; */
+    display: inline;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    color: #000;
+    /* object-fit: cover; */
 }
 
 .main{
-  background-image: url(../images/makerdough.png);
-  background-repeat: no-repeat;
-  width: 100%;
-  background-size: cover;
-  height: 565px;
+    background-image: url(../images/makerdough.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 565px;
 }
 
 .main .navbar{
-  top:10%;
-  width: 100vw;
-  position: relative;
-  background-color: #fff;
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-evenly;
+    top:10%;
+    width: 100vw;
+    position: relative;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 
 .main .navbar a{
-  color: #000;
-  font-weight: bold;
-  text-decoration: none;
-  font-size: 1.25rem;
-  font-family: 'Great Vibes', cursive;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 100px;
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-family: 'Great Vibes', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 100px;
 }
 
 
-.main2{
-  background-image: url(../images/texture.jpg);
-  background-repeat: no-repeat;
-  width: 100%;
-  background-size: cover;
-  height: 565px;
+  .main2{
+    background-image: url(../images/texture.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 565px;
 }
 .main2 .navbar{
-  top:10%;
-  width: 100vw;
-  position: relative;
-  background-color: #fff;
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-evenly;
+    top:10%;
+    width: 100vw;
+    position: relative;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .main2 .navbar a{
-  color: #000;
-  font-weight: bold;
-  text-decoration: none;
-  font-size: 1.25rem;
-  font-family: 'Great Vibes', cursive;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 100px;
-}
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-family: 'Great Vibes', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 100px;
+  }
 
-.main3{
-  background-image: url(../images/lights.jpg);
-  background-repeat: no-repeat;
-  width: 100%;
-  background-size: cover;
-  height: 565px;
+  .main3{
+    background-image: url(../images/lights.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 565px;
 }
 
 .main3 .navbar{
-  top:10%;
-  width: 100vw;
-  position: relative;
-  background-color: #fff;
-  display: inline-flex;
-  align-items: center;
-  justify-content: space-evenly;
+    top:10%;
+    width: 100vw;
+    position: relative;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .main3 .navbar a{
-  color: #000;
-  font-weight: bold;
-  text-decoration: none;
-  font-size: 1.25rem;
-  font-family: 'Great Vibes', cursive;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 100px;
-}
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-family: 'Great Vibes', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 100px;
+  }
 
 .content p{
-  font-family: 'Warnock Pro';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 40px;
-  line-height: 48px;
-  color: #000000;
+    font-family: 'Warnock Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
 }
 
 .content h2{
-  display: inline;
-  font-family: 'Great Vibes', cursive;
-  color: #000;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 60px;
-  line-height: 70px;
+    display: inline;
+    font-family: 'Great Vibes', cursive;
+    color: #000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 70px;
 }
 
 .content img{
-  display: inline;
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 100px;
-  height: 100px;
-  color: #000;
-  /* object-fit: cover; */
+    display: inline;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    color: #000;
+    /* object-fit: cover; */
 }
 
 .content .logo{
-  width: 60px;
-  height: 60px;
-  object-fit: cover;
-  margin-bottom: -10px;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    margin-bottom: -10px;
 }
 
 .content .grid{
-  display: grid;
-  padding:15px;
-  grid-gap: 16px;
+    display: grid;
+    padding:15px;
+    grid-gap: 16px;
 }
 
 .content .grid .col{
-  background: #CA996A;
-  border-radius: 37px;
-  margin-bottom: 16px;
-  padding: 10px;
-  align-content: center;
+    background: #CA996A;
+    border-radius: 37px;
+    margin-bottom: 16px;
+    padding: 10px;
+    align-content: center;
 }
 .content .grid .col img{
-  width: 100%;
-  max-width: 100%;
-  height: 250px;
-  border-radius: 71px;
-  object-fit: cover;
+    width: 100%;
+    max-width: 100%;
+    height: 250px;
+    border-radius: 71px;
+    object-fit: cover;
 }
 .content .grid .col h3{
-  font-size: 25px;
-  line-height: 32px;
+    font-size: 25px;
+    line-height: 32px;
 }
 .content .grid .col button{
-  font-size: 30px;
-  line-height: 32px;
+    font-size: 30px;
+    line-height: 32px;
 }
 
 .content .col h2{
-  font-family: 'Warnock Pro';
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  color: #000000;
+    font-family: 'Warnock Pro';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
 }
 
 .content .col p{
-  font-family: 'Warnock Pro';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 20px;
-  line-height: 22px;
-  color: #000000;
+    font-family: 'Warnock Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 22px;
+    color: #000000;
 }
 
 .content .grid2{
-  display: grid;
-  padding:15px;
-  grid-gap: 16px;
+    display: grid;
+    padding:15px;
+    grid-gap: 16px;
 }
 
 .content .grid2 .col{
-  background: #CA996A;
-  border-radius: 37px;
-  margin-bottom: 16px;
-  padding: 16px;
+    background: #CA996A;
+    border-radius: 37px;
+    margin-bottom: 16px;
+    padding: 16px;
 }
 
 .content .grid2 .row{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .content .grid2 .row .col{
-  background: #CA996A;
-  border-radius: 0px;
+    background: #CA996A;
+    border-radius: 0px;
 }
 .content .grid2 .row .col h2{
-  font-family:'Great Vibes';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 30px;
-  float: left;
+    font-family:'Great Vibes';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    float: left;
 }
 
 .content .grid2 .row img{
-  width: 120px;
-  max-width: 120px;
-  height: 80px;
-  max-height:80px ;
-  border-radius: 20px;
-  object-fit: cover;
+    width: 120px;
+    max-width: 120px;
+    height: 80px;
+    max-height:80px ;
+    border-radius: 20px;
+    object-fit: cover;
 
 }
 
 .content .p{
-  font-family: 'Warnock Pro';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 40px;
-  line-height: 48px;
-  color: #000000;
+    font-family: 'Warnock Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
 }
 
 .content button{
-  background: #EACFB6;
-  border-radius: 37px;
-  border-color: #EACFB6;
-  margin-bottom: 16px;
-  padding: 16px;
-  font-family: 'Great Vibes', cursive;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 40px;
-  line-height: 48px;
-  color: #000000;
+    background: #EACFB6;
+    border-radius: 37px;
+    border-color: #EACFB6;
+    margin-bottom: 16px;
+    padding: 16px;
+    font-family: 'Great Vibes', cursive;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
 }
 .content button a{
-  color: #000;
-  text-decoration: none;
+    color: #000;
+    text-decoration: none;
 }
 
 .content .grid3{
-  display: grid;
-  padding:15px;
-  grid-gap: 16px;
+    display: grid;
+    padding:15px;
+    grid-gap: 16px;
 }
 
 .content .grid3 .col{
-  background: #CA996A;
-  border-radius: 37px;
-  margin-bottom: 16px;
-  padding: 16px;
+    background: #CA996A;
+    border-radius: 37px;
+    margin-bottom: 16px;
+    padding: 16px;
 }
 
 
 .contact{
-  background-color: #CA996A;
-  height: fit-content;
-  width: 100%;
-  margin-top: -20px;
+    background-color: #CA996A;
+    height: fit-content;
+    width: 100%;
+    margin-top: -20px;
 }
 
 .vision{
-  background-color:#fff;
-  height: fit-content;
-  width: 100%;
-  margin-bottom:30px;
+    background-color:#fff;
+    height: fit-content;
+    width: 100%;
+    margin-bottom:30px;
 }
 
 footer{
-  background-color: #775C41;
-  height: 30px;
-  padding: 30px;
-  text-align: center;
-  justify-content: space-around;
-  color: #000;
-  margin-top: 50px;
+    background-color: #775C41;
+    height: 30px;
+    padding: 30px;
+    text-align: center;
+    justify-content: space-around;
+    color: #000;
+    margin-top: 50px;
 }
 
 .icons{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
 }
 
 .blackiconcolor{
-  color: #000;
-  padding-top:5px;
+    color: #fff;
+    border-radius: 10px;
+    padding:5px;
+    height: 30px;
+    width:30px;
 }
 
 .whiteiconcolor{
-  color: #fff;
-  background-color: #000;
-  border-radius: 10px;
-  padding-top:5px;
-  height: 35px;
-  width:35px;
+    color: #fff;
+    border-radius: 10px;
+    padding:5px;
+    height: 30px;
+    width:30px;
 }
 
 
 /* Add media query for tablet */
 @media (min-width: 681px) {
-  /* header{
-  gap: 2rem;
-  } */
-  .wrapper{
-    position: relative;
-  }
-  .wrapper h1{
-    font-size: 80px;
-    line-height: 100px;
-    /* line-height: 60%;*/
-  }
-  .wrapper img{
-    top:10px;
-    width: 80px;
-    height: 80px;
-  }
-  .main img{
-    position: relative;
-    width: 100%;
-    height: 350px;
-    /* object-fit: fit; */
+    /* header{
+      gap: 2rem;
+    } */
+    .wrapper{
+        position: relative;
+    }
+    .wrapper h1{
+        font-size: 80px;
+        line-height: 100px;
+        /* line-height: 60%;*/
+    }
+    .wrapper img{
+        top:10px;
+        width: 80px;
+        height: 80px;
+    }
+    .main img{
+        position: relative;
+        width: 100%;
+        height: 350px;
+        /* object-fit: fit; */
+    }
+
+    .main2 img{
+        position: relative;
+        width: 100%;
+        height: 350px;
+        /* object-fit: fit; */
+    }
+
+    .main3 img{
+        position: relative;
+        width: 100%;
+        height: 350px;
+        /* object-fit: fit; */
+    }
+    .content .grid{
+        justify-self:center;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .content .grid2{
+        justify-self:center;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .content .grid3{
+        justify-self:center;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .content .grid3 .col{
+        background: #CA996A;
+    }
   }
 
-  .main2 img{
-    position: relative;
-    width: 100%;
-    height: 350px;
-    /* object-fit: fit; */
+
+  /* Add media query for desktop */
+  @media (min-width: 1024px) {
+    /* header {
+      gap: 3rem;
+      padding: 0;
+    } */
+    .main img{
+        position: relative;
+        width: 100%;
+        height: 565px;
+        /* object-fit: fit; */
+    }
+    .main2 img{
+        position: relative;
+        width: 100%;
+        height: 565px;
+        /* object-fit: fit; */
+    }
+    .main3 img{
+        position: relative;
+        width: 100%;
+        height: 565px;
+        /* object-fit: fit; */
+    }
+    .content .grid{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .content .grid2{
+        justify-self:center;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .content .grid3{
+        justify-self:center;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .content .grid3 .col{
+        background: #CA996A;
+    }
   }
 
-  .main3 img{
-    position: relative;
-    width: 100%;
-    height: 350px;
-    /* object-fit: fit; */
-  }
-  .content .grid{
-    justify-self:center;
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .content .grid2{
-    justify-self:center;
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .content .grid3{
-    justify-self:center;
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .content .grid3 .col{
-    background: #CA996A;
-  }
-}
 
+  @media (max-width: 680px) {
+    .wrapper{
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .wrapper h1{
+        font-size: 5vh;
+        padding: 10px;
+        line-height: 100%;
+    }
+    .wrapper img{
+        top:10px;
+        width: 5vh;
+        height: 5vh;
+    }
+    .main img{
+        position: relative;
+        width: 100%;
+        height: 200px;
+        /* object-fit: fit; */
+    }
 
-/* Add media query for desktop */
-@media (min-width: 1024px) {
-  /* header {
-  gap: 3rem;
-  padding: 0;
-  } */
-  .main img{
-    position: relative;
-    width: 100%;
-    height: 565px;
-    /* object-fit: fit; */
-  }
-  .main2 img{
-    position: relative;
-    width: 100%;
-    height: 565px;
-    /* object-fit: fit; */
-  }
-  .main3 img{
-    position: relative;
-    width: 100%;
-    height: 565px;
-    /* object-fit: fit; */
-  }
-  .content .grid{
-    grid-template-columns: repeat(4, 1fr);
-  }
-  .content .grid2{
-    justify-self:center;
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .content .grid3{
-    justify-self:center;
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .content .grid3 .col{
-    background: #CA996A;
-  }
-}
+    .main2 img{
+        position: relative;
+        width: 100%;
+        height: 200px;
+        /* object-fit: fit; */
+    }
 
+    .main3 img{
+        position: relative;
+        width: 100%;
+        height: 200px;
+        /* object-fit: fit; */
+    }
 
-@media (max-width: 680px) {
-  .wrapper{
-    position: relative;
-    top: 0;
-    left: 0;
+    .content h2{
+        font-size: 30px;
+        line-height: 48px;
+        color: #000000;
+        display: inline;
+    }
+    .content img{
+        width: 30px;
+        height: 30px;
+        display: inline;
+    }
+    .content .grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .content .grid2{
+        justify-self:center;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .content .grid3{
+        justify-self:center;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .content .grid3 .col{
+        background: #fff;
+    }
   }
-  .wrapper h1{
-    font-size: 5vh;
-    padding: 10px;
-    line-height: 100%;
-  }
-  .wrapper img{
-    top:10px;
-    width: 5vh;
-    height: 5vh;
-  }
-  .main img{
-    position: relative;
-    width: 100%;
-    height: 200px;
-    /* object-fit: fit; */
-  }
-
-  .main2 img{
-    position: relative;
-    width: 100%;
-    height: 200px;
-    /* object-fit: fit; */
-  }
-
-  .main3 img{
-    position: relative;
-    width: 100%;
-    height: 200px;
-    /* object-fit: fit; */
-  }
-
-  .content h2{
-    font-size: 30px;
-    line-height: 48px;
-    color: #000000;
-    display: inline;
-  }
-  .content img{
-    width: 30px;
-    height: 30px;
-    display: inline;
-  }
-  .content .grid{
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .content .grid2{
-    justify-self:center;
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .content .grid3{
-    justify-self:center;
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .content .grid3 .col{
-    background: #fff;
-  }
-}
