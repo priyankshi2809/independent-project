@@ -1,6 +1,6 @@
 html {
     /* content stays responsive */
-    box-sizing: border-box;
+    box-sizing: inherit;
   }
   /* adding above property to all the elements by default */
   * {
